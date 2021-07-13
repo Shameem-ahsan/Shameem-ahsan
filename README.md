@@ -1,4 +1,4 @@
-![](code.gif)
+<img align="right" alt="GIF" src="/code.gif" width="450" height="300" />
 
 ## Hey, I'm Shameem Ahsan 👋 
 
