@@ -46,7 +46,7 @@ Reach out to me at...
 
 
 
-- 🔭 I’m currently working on [Wallpost Software](https://wallpostsoftware.com/global/)
+- 🔭 I’m currently working on [Digipresence](https://www.digipresence.net/)
 - 👯 I’m looking to collaborate on Mobile Application Development
 - 📫 How to reach me: Shameem.kk50@gmail.com
 
